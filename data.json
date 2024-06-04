@@ -1,0 +1,6 @@
+{
+  "books": [
+    { "id": 1, "name": "thomas calculas", "available": true },
+    { "id": 2, "name": "Thinking Fast and Slow", "available": true }
+  ]
+}
